@@ -4,15 +4,15 @@
 LIS 2360:  Web Application Development
 
 ## Assignment Date:  
-(Month Day, Year)
+(February 3, 2017)
 
 ## Student Name:  
-(First and Last Name)
+(Ayanna Chukes)
 
 ## Project Description:
-(In your own words, briefly describe the assignment.)
+(Lesson 3's assignment was to read the lesson and watch the videos and find five highlights of the lesson and summarize them with pictures. And I also had to sync cloud9 with github.)
 
 ## Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned that a distributed version control system helps you to work faster and efficiently and also share files with other people but also allows you to work offine too.
+2. I learned that a remote repository can be shared with multiple people and files are stored remotely on another server.
+3. I learned that a local repository is stored on your own machine and it is only availible to you and can also be used offline.
